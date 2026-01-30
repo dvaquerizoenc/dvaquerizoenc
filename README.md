@@ -1,8 +1,8 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy David 👋
 
 ### 🚀 Desarrollador Junior | Graduado en DAM 
 
-Me apasiona construir soluciones eficientes y aprender nuevas tecnologías cada día. Recientemente finalicé mi formación en **Desarrollo de Aplicaciones Multiplataforma**, donde descubrí mi gusto por el [backend/frontend/móvil - elige uno]. Actualmente estoy enfocado en profundizar mis conocimientos en [Tecnología que estés aprendiendo ahora, ej: React o Spring Boot].
+Me apasiona construir soluciones eficientes y aprender nuevas tecnologías cada día. Recientemente finalicé mi formación en **Desarrollo de Aplicaciones Multiplataforma**, donde descubrí mi gusto por el backend..
 
 ---
 
