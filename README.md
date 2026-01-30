@@ -18,21 +18,20 @@ Me apasiona construir soluciones eficientes y aprender nuevas tecnologías cada 
 
 ### 📌 Proyectos Destacados
 
-* **[Nombre de tu Proyecto Final de Grado]:** [Breve descripción de una frase]. Desarrollado con [Tecnología A] y [Tecnología B].
-* **[Otro Proyecto Personal]:** Una herramienta para [qué hace] que utiliza [X API].
+* **TFG_Recetario:**: Aplicación de gestión y descubrimiento de recetas que permite a los usuarios explorar un amplio catálogo y gestionar su propio recetario personal.
+  * **Características clave:** Sistema de autenticación (Login/Registro), buscador avanzado con filtros personalizados, historial de navegación y panel privado para recetas de usuario.
+  * **Tech Stack:** Java (Backend), SQL (Base de datos), React (Frontend) y [Android Studio/Otra] para la interfaz.
+  * **Lo que aprendí:** Implementación de lógica de privacidad de datos, gestión de filtros dinámicos y persistencia de sesiones de usuario.
+  Desarrollado con Java y Firebase Firestore con Android Studio.
 
 ---
 
 ### 📫 Conecta conmigo
 
-* 💼 [LinkedIn](TU_URL_DE_LINKEDIN)
-* 📧 [Tu Email](mailto:tuemail@ejemplo.com)
-* 🌐 [Tu Portfolio/Web (si tienes)](URL_PORTFOLIO)
+* 💼 [LinkedIn]([TU_URL_DE_LINKEDIN](https://www.linkedin.com/in/david-vaquerizo-encinas/))
+* 📧 [Tu Email](mailto:davidvaquerizoenc@gmail.com)
 
 ---
 
 ### ⚡ Un poco sobre mí
-* 🔭 Actualmente trabajando en: **[Nombre de tu proyecto actual]**
-* 🌱 Aprendiendo: **[Tecnología X]**
-* 💬 Pregúntame sobre: **Java, SQL o por qué mi código no compila a las 3 AM.**
-* ⚡ Fun fact: [Algo curioso sobre ti, ej: "Soy cinturón negro en café" o "Empecé en esto por los videojuegos"].
+* 🌱 Aprendiendo: **Python y mejorando en Java**
