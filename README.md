@@ -29,7 +29,7 @@ Me apasiona construir soluciones eficientes y aprender nuevas tecnologías cada 
 ### 📫 Conecta conmigo
 
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-vaquerizo-encinas/)
-* 📧 [Tu Email](mailto:davidvaquerizoenc@gmail.com)
+* [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davidvaquerizoenc@gmail.com)
 
 ---
 
